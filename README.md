@@ -1,1 +1,2 @@
-# frozen-master
+# fork of bytecoin frozen-master
+
